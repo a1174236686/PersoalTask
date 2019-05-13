@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\bin\Debug\PersonalTask.exe.config
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\bin\Debug\PersonalTask.exe
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\bin\Debug\PersonalTask.pdb
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\obj\Debug\PersonalTask.Form1.resources
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\obj\Debug\PersonalTask.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\obj\Debug\PersonalTask.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\obj\Debug\PersonalTask.exe
+C:\Users\Administrator\Desktop\PersonalTask\PersonalTask\obj\Debug\PersonalTask.pdb
